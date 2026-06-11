@@ -1,27 +1,7 @@
 {
   "version": 1,
-  "baseUrl": "https://yudofu185.github.io/my-gallery",
-  "generatedAt": "2026-06-11T03:57:43.315771700+00:00",
-  "libraryImages": [
-    {
-      "id": "4d6c0e69",
-      "thumbnail": "thumb/4d6c0e69.jpg",
-      "fullsize": "full/4d6c0e69.jpg",
-      "version": 1
-    },
-    {
-      "id": "c480561b",
-      "thumbnail": "thumb/c480561b.jpg",
-      "fullsize": "full/c480561b.jpg",
-      "version": 1
-    },
-    {
-      "id": "60664e32",
-      "thumbnail": "thumb/60664e32.jpg",
-      "fullsize": "full/60664e32.jpg",
-      "version": 1
-    }
-  ],
+  "baseUrl": "",
+  "generatedAt": "2026-06-11T06:06:07.408801+00:00",
   "galleries": [
     {
       "galleryId": "wall_a",
@@ -34,39 +14,8 @@
           "thumbnail": "thumb/bc8ea07a.jpg",
           "fullsize": "full/bc8ea07a.jpg",
           "version": 1
-        },
-        {
-          "id": "023aed3b",
-          "thumbnail": "thumb/023aed3b.jpg",
-          "fullsize": "full/023aed3b.jpg",
-          "version": 1
-        },
-        {
-          "id": "b9c0a99e",
-          "thumbnail": "thumb/b9c0a99e.jpg",
-          "fullsize": "full/b9c0a99e.jpg",
-          "version": 1
-        },
-        {
-          "id": "7fdc7a28",
-          "thumbnail": "thumb/7fdc7a28.jpg",
-          "fullsize": "full/7fdc7a28.jpg",
-          "version": 1
-        },
-        {
-          "id": "a14419c3",
-          "thumbnail": "thumb/a14419c3.jpg",
-          "fullsize": "full/a14419c3.jpg",
-          "version": 1
-        },
-        {
-          "id": "7485576e",
-          "thumbnail": "thumb/7485576e.jpg",
-          "fullsize": "full/7485576e.jpg",
-          "version": 1
         }
       ]
     }
-  ],
-  "githubRepo": "yudofu185/my-gallery"
+  ]
 }
