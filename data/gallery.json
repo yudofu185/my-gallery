@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "baseUrl": "",
-  "generatedAt": "2026-06-11T02:45:34.312072700+00:00",
+  "baseUrl": "https://yudofu185.github.io/my-gallery/",
+  "generatedAt": "2026-06-11T02:46:08.388275100+00:00",
+  "libraryImages": [
+    {
+      "id": "c480561b",
+      "thumbnail": "thumb/c480561b.jpg",
+      "fullsize": "full/c480561b.jpg",
+      "version": 1
+    }
+  ],
   "galleries": [
     {
       "galleryId": "wall_a",
@@ -25,12 +33,6 @@
           "id": "7fdc7a28",
           "thumbnail": "thumb/7fdc7a28.jpg",
           "fullsize": "full/7fdc7a28.jpg",
-          "version": 1
-        },
-        {
-          "id": "c480561b",
-          "thumbnail": "thumb/c480561b.jpg",
-          "fullsize": "full/c480561b.jpg",
           "version": 1
         }
       ]
